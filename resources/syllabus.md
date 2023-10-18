@@ -25,10 +25,9 @@ learningOutcome:
 accessCost: "Choice stating whether or not there is a fee for use of the resource (CV = Y/N/Maybe with recommendation that further explanation of “Maybe” goes in the Description field"
 expertiseLevel: "Target skill level in the topic being taught; example values include: beginner, intermediate, advanced"
 ---
-
 ![Header with Skills4EOSC funding information](./attachments/header.png)
 
-# Title of training 
+# Title of training
 
 # Type (Course/Workshop/Webinar)
 
@@ -47,7 +46,7 @@ expertiseLevel: "Target skill level in the topic being taught; example values in
 - what is the main goal/purpose of this training
 - short training description
 
-## Target audience: target audience description
+## Target audience: PhD Students
 
 ## Expertise Level / Skill Level: Beginner / Intermediate / Advanced
 
@@ -73,15 +72,16 @@ Keywords or tags used to describe the training.
 
 ## Agenda: Training Schedule - Training Structure
 
-| Date/Time | Topic             |
-|-----------|-------------------|
-| timeslot  | training unit 1   |
-| timeslot  | training unit 2   |
-| timeslot  | coffee break      |
-| timeslot  | training unit 3   |
-| timeslot  | lunch break       |
-| timelsot  | training unit 4   |
-| timeslot  | training unit 5   |
+
+| Date/Time | Topic           |
+| ----------- | ----------------- |
+| timeslot  | training unit 1 |
+| timeslot  | training unit 2 |
+| timeslot  | coffee break    |
+| timeslot  | training unit 3 |
+| timeslot  | lunch break     |
+| timelsot  | training unit 4 |
+| timeslot  | training unit 5 |
 
 ## Resources and Materials
 
