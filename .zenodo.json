@@ -1,0 +1,30 @@
+{
+  "creators": [
+    {
+      "affiliation": "KIT",
+      "name": "Berberi, Lisana",
+      "orcid": "0000-0002-7632-2466"
+    }
+  ],
+  "description": "Training description",
+  "keywords": [
+    "thefirstkeyword",
+    "thesecondkeyword",
+    "a third keyword"
+  ],
+  "license": "CC-BY-4.0",
+  "publication_date": "1970-01-01",
+  "title": "Training Name",
+  "version": "1.0.0",
+  "upload_type": "lesson",
+  "communities": [
+    {
+      "identifier": "skills4eosc"
+    }
+  ],
+  "grants": [
+    {
+      "id": "10.13039/501100000780::101058527"
+    }
+  ]
+}
